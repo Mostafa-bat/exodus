@@ -1,0 +1,14 @@
+key_key.ars_nouveau.head_curio_hotkey:key.keyboard.unknown
+key_key.curios.open.desc:key.keyboard.unknown
+key_key.botania_corporea_request:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
+key_key.draconicevolution.tool_config:key.keyboard.unknown
+key_key.draconicevolution.tool_modules:key.keyboard.unknown
+key_create.keyinfo.rotate_menu:key.keyboard.unknown
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.lock_rotation:key.keyboard.unknown
+key_quark.keybind.variant_selector:key.keyboard.unknown

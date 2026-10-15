@@ -1,0 +1,43 @@
+{
+	id: "c7342909-2c93-43b4-822b-bb21f53871fa"
+	type: "player"
+	player_name: "khyal11"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "khyal11"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"bloodmagicteams:binding_restriction": "member"
+	}
+	message_history: [ ]
+	extra: {
+		ftbstagemirror: {
+			c7342909-2c93-43b4-822b-bb21f53871fa: {
+				gamestages: [
+					"starter_items"
+					"protection_from_mobs_t0"
+					"mob_stages"
+					"protection_from_mobs_t1"
+					"protection_from_mobs_t2"
+					"ftbchunks_mapping"
+					"pack_start_stage"
+				]
+				astages: ["pack_start_stage"]
+			}
+		}
+	}
+}

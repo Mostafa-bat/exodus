@@ -1,0 +1,29 @@
+                                     ███████ ████████ ██████  
+                                     ██         ██    ██   ██ 
+                                     █████      ██    ██████  
+                                     ██         ██    ██   ██ 
+                                     ██         ██    ██████  
+                                     
+                                     
+                             Server installer version: v1.0.52(f62c1f)
+                                   Wed, 14 Oct 2026 15:50:03 UTC
+
+                                      Installer Issue tracker
+                       https://github.com/FTBTeam/FTB-Server-Installer/issues
+                                                  
+ INFO  Fetched modpack:
+       Name: FTB Presents Architect's Exodus (127)
+       Version: 1.16.1 (100519)
+       ModLoader: forge (47.4.20)
+       Is Update: false
+       Install Path: /workspaces/exodus/exodus
+Do you want to continue? [Y/n]: Yes
+Do you want to download java? [Y/n]: Yes
+ INFO  Starting mod pack download...
+2026/10/14 15:50:25 protocol error: received DATA after END_STREAM
+2026/10/14 15:50:27 protocol error: received DATA after END_STREAM
+ SUCCESS  Modpack files downloaded
+Would you like to run the forge installer? [Y/n]: Yes
+ INFO  Running Forge installer
+ SUCCESS  Forge installed successfully
+ SUCCESS  Modpack installed successfully

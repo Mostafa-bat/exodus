@@ -1,0 +1,43 @@
+{
+	id: "a8881ac9-d527-48d7-8574-922488cd0b2d"
+	type: "player"
+	player_name: "M0stqfa"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "M0stqfa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF81"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"bloodmagicteams:binding_restriction": "member"
+	}
+	message_history: [ ]
+	extra: {
+		ftbstagemirror: {
+			a8881ac9-d527-48d7-8574-922488cd0b2d: {
+				gamestages: [
+					"starter_items"
+					"pack_start_stage"
+					"protection_from_mobs_t0"
+					"mob_stages"
+					"protection_from_mobs_t1"
+					"protection_from_mobs_t2"
+					"ftbchunks_mapping"
+				]
+				astages: ["pack_start_stage"]
+			}
+		}
+	}
+}

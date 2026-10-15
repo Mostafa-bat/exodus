@@ -1,0 +1,24 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "ftbteambases:private_for_m0stqfa_20261014_164508", x: -6, y: 60, z: 0, time: 1792000469688L, xRot: 24.600086f, yRot: 152.83716f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "ftbteambases:lobby", x: 0, y: 171, z: 0, time: 1792009095100L, xRot: 0.0f, yRot: -180.0f }
+		{ dim: "ftbteambases:private_for_m0stqfa_20261014_164508", x: 0, y: 60, z: 8, time: 1792009173167L }
+		{ dim: "ftbteambases:lobby", x: 0, y: 171, z: 0, time: 1792009180098L, xRot: 0.0f, yRot: -180.0f }
+		{ dim: "ftbteambases:private_for_m0stqfa_20261014_164508", x: 0, y: 60, z: 8, time: 1792009963333L }
+		{ dim: "ftbteambases:lobby", x: 0, y: 171, z: 0, time: 1792009969102L, xRot: 0.0f, yRot: -180.0f }
+		{ dim: "ftbteambases:private_for_m0stqfa_20261014_164508", x: 0, y: 60, z: 8, time: 1792009988672L }
+		{ dim: "ftbteambases:lobby", x: 0, y: 171, z: 0, time: 1792009995098L, xRot: 0.0f, yRot: -180.0f }
+		{ dim: "ftbteambases:private_for_m0stqfa_20261014_164508", x: 0, y: 60, z: 8, time: 1792010181645L }
+		{ dim: "ftbteambases:lobby", x: 0, y: 171, z: 0, time: 1792010187099L, xRot: 0.0f, yRot: -180.0f }
+		{ dim: "ftbteambases:private_for_m0stqfa_20261014_164508", x: -331, y: 210, z: 4, time: 1792010813092L, xRot: 21.450048f, yRot: -116.54883f }
+	]
+	homes: {
+		home: { dim: "ftbteambases:private_for_m0stqfa_20261014_164508", x: 0, y: 60, z: 0, time: 1791996422780L, xRot: 22.650023f, yRot: 179.39989f }
+	}
+	kit_use_times: { }
+}

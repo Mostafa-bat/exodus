@@ -1,0 +1,6 @@
+
+[helheim]
+	#Radius of the spawn-protection cylinder centered at (0, *, 0) in every ftbteambases:* dimension. Denies natural and chunk-generation hostile spawns inside the cylinder; spawners, commands, structures and summons are unaffected. Set to 0 to disable.
+	#Range: 0 ~ 256
+	safe_zone_radius = 32
+

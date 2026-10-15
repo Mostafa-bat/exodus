@@ -1,0 +1,79 @@
+{
+	id: "2a1b428e-9fb3-4e77-b2f7-904cdec2a0bb"
+	type: "party"
+	owner: "a8881ac9-d527-48d7-8574-922488cd0b2d"
+	ranks: {
+		a8881ac9-d527-48d7-8574-922488cd0b2d: "owner"
+		c7342909-2c93-43b4-822b-bb21f53871fa: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "M0stqfa's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"bloodmagicteams:binding_restriction": "member"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1791996308876L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"M0stqfa\"}]}" }
+		{ from: "a8881ac9-d527-48d7-8574-922488cd0b2d", date: 1791996321784L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"khyal11\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1791996324921L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"khyal11\"}]}" }
+	]
+	extra: {
+		ftbstagemirror: {
+			a8881ac9-d527-48d7-8574-922488cd0b2d: {
+				gamestages: [
+					"starter_items"
+					"pack_start_stage"
+					"protection_from_mobs_t0"
+					"mob_stages"
+					"protection_from_mobs_t1"
+					"protection_from_mobs_t2"
+					"ftbchunks_mapping"
+					"lh_tips"
+					"met_lh"
+					"lh_lore"
+					"lh_react_helheim"
+				]
+				astages: ["pack_start_stage"]
+			}
+			c7342909-2c93-43b4-822b-bb21f53871fa: {
+				gamestages: [
+					"starter_items"
+					"pack_start_stage"
+					"protection_from_mobs_t0"
+					"mob_stages"
+					"protection_from_mobs_t1"
+					"protection_from_mobs_t2"
+					"ftbchunks_mapping"
+					"lh_tips"
+					"met_lh"
+					"lh_lore"
+					"lh_react_helheim"
+				]
+				astages: ["pack_start_stage"]
+			}
+		}
+		ftbarenas: {
+			"ftb:hel": {
+				x: -656
+				y: 200
+				z: 304
+				state: "IDLE"
+				last_visited: 1791996336430L
+			}
+		}
+	}
+}

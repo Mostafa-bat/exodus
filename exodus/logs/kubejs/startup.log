@@ -1,0 +1,95 @@
+[16:19:49] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[16:19:49] [INIT] Loaded plugins:
+[16:19:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:19:49] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[16:19:49] [INIT] - pro.mikey.kubeutils.kubejs.KubeUtilsPlugin
+[16:19:49] [INIT] - dev.ftb.mods.ftblh.kubejs.KubeJSIntegration
+[16:19:49] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[16:19:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[16:19:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[16:19:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[16:19:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[16:19:49] [INIT] - dev.ftb.mods.ftbexoduscompanion.kubejs.ExodusKubeJSPlugin
+[16:19:49] [INIT] - net.sdm.recipemachinestage.compat.kubejs.KJSPlugin
+[16:19:49] [INIT] - ru.blatfan.kubejsprojecte.kubejs.KubeJSProjectEPlugin
+[16:19:49] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[16:19:49] [INIT] - com.alessandro.astages.integration.kubejs.AStageKubeJSPlugin
+[16:19:49] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[16:19:49] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[16:19:49] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[16:19:49] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[16:19:49] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[16:19:49] [INIT] - com.alessandro.astages_curios.integration.kubejs.AStagesCuriosKubeJSPlugin
+[16:19:49] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[16:19:49] [INIT] - wootrevived.woot.compat.kubejs.WootKubeJSPlugin
+[16:19:49] [INIT] - com.leclowndu93150.chisel.compat.kubejs.ChiselKubeJSPlugin
+[16:19:49] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[16:19:50] [INFO] _init/classes/malum.js#3: Loaded Java class 'com.sammy.malum.common.item.spirit.SpiritShardItem'
+[16:19:50] [INFO] _init/classes/malum.js#4: Loaded Java class 'com.sammy.malum.core.systems.spirit.MalumSpiritType'
+[16:19:50] [INFO] _init/classes/malum.js#5: Loaded Java class 'com.sammy.malum.core.systems.spirit.SpiritVisualMotif'
+[16:19:51] [INFO] _init/classes/malum.js#6: Loaded Java class 'com.sammy.malum.registry.common.SpiritTypeRegistry'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/malum.js in 0.453 s
+[16:19:51] [INFO] _init/classes/kubejs.js#3: Loaded Java class 'dev.latvian.mods.kubejs.util.UtilsJS'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/kubejs.js in 0.004 s
+[16:19:51] [INFO] _init/classes/java.js#3: Loaded Java class 'java.util.Properties'
+[16:19:51] [INFO] _init/classes/java.js#4: Loaded Java class 'java.util.function.Consumer'
+[16:19:51] [INFO] _init/classes/java.js#5: Loaded Java class 'java.util.LinkedList'
+[16:19:51] [INFO] _init/classes/java.js#6: Loaded Java class 'java.util.function.Predicate'
+[16:19:51] [INFO] _init/classes/java.js#7: Loaded Java class 'java.util.HashSet'
+[16:19:51] [INFO] _init/classes/java.js#8: Loaded Java class 'java.lang.Object'
+[16:19:51] [INFO] _init/classes/java.js#9: Loaded Java class 'java.util.HashMap'
+[16:19:51] [INFO] _init/classes/java.js#10: Loaded Java class 'java.util.Collection'
+[16:19:51] [INFO] _init/classes/java.js#12: Loaded Java class 'java.awt.Color'
+[16:19:51] [INFO] _init/classes/java.js#16: Loaded Java class 'java.util.UUID'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/java.js in 0.021 s
+[16:19:51] [INFO] _init/classes/lodestone.js#3: Loaded Java class 'team.lodestar.lodestone.systems.easing.Easing'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/lodestone.js in 0.001 s
+[16:19:51] [INFO] _init/classes/ftbteambases.js#3: Loaded Java class 'dev.ftb.mods.ftbteambases.data.bases.BaseInstanceManager'
+[16:19:51] [INFO] _init/classes/ftbteambases.js#4: Loaded Java class 'dev.ftb.mods.ftbteambases.util.DimensionUtils'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/ftbteambases.js in 0.149 s
+[16:19:51] [INFO] _init/classes/ftbteams.js#3: Loaded Java class 'dev.ftb.mods.ftbteams.api.event.TeamEvent'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/ftbteams.js in 0.001 s
+[16:19:51] [INFO] _init/classes/forge.js#3: Loaded Java class 'net.minecraftforge.common.MinecraftForge'
+[16:19:51] [INFO] _init/classes/forge.js#4: Loaded Java class 'net.minecraftforge.eventbus.api.EventPriority'
+[16:19:51] [INFO] _init/classes/forge.js#5: Loaded Java class 'net.minecraftforge.items.ItemStackHandler'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/forge.js in 0.023 s
+[16:19:51] [INFO] _init/classes/minecraft.js#3: Loaded Java class 'net.minecraft.world.level.GameRules'
+[16:19:51] [INFO] _init/classes/minecraft.js#4: Loaded Java class 'net.minecraft.world.entity.player.Player'
+[16:19:51] [INFO] _init/classes/minecraft.js#5: Loaded Java class 'net.minecraft.util.Mth'
+[16:19:51] [INFO] _init/classes/minecraft.js#6: Loaded Java class 'net.minecraft.core.BlockPos'
+[16:19:51] [INFO] _init/classes/minecraft.js#7: Loaded Java class 'net.minecraft.resources.ResourceLocation'
+[16:19:51] [INFO] _init/classes/minecraft.js#8: Loaded Java class 'net.minecraft.world.item.Item$Properties'
+[16:19:51] [INFO] _init/classes/minecraft.js#9: Loaded Java class 'net.minecraft.world.level.ChunkPos'
+[16:19:51] [INFO] _init/classes/minecraft.js#10: Loaded Java class 'net.minecraft.server.level.TicketType'
+[16:19:51] [INFO] _init/classes/minecraft.js#11: Loaded Java class 'net.minecraft.world.entity.ai.attributes.RangedAttribute'
+[16:19:51] [INFO] _init/classes/minecraft.js#12: Loaded Java class 'net.minecraft.world.effect.MobEffectInstance'
+[16:19:51] [INFO] _init/classes/minecraft.js#13: Loaded Java class 'net.minecraft.world.entity.ai.attributes.AttributeModifier'
+[16:19:51] [INFO] _init/classes/minecraft.js#14: Loaded Java class 'net.minecraft.world.phys.AABB'
+[16:19:51] [INFO] Loaded script startup_scripts:_init/classes/minecraft.js in 0.263 s
+[16:19:51] [INFO] Loaded script startup_scripts:_init/startup_globals/startup_constants.js in 0.019 s
+[16:19:51] [INFO] Loaded script startup_scripts:_init/function_utils/_kjs_utils.js in 0.006 s
+[16:19:51] [INFO] Loaded script startup_scripts:renaming.js in 0.001 s
+[16:19:51] [INFO] Loaded script startup_scripts:globals.js in 0.005 s
+[16:19:51] [INFO] Loaded script startup_scripts:unification.js in 0.044 s
+[16:19:51] [INFO] events/ftb_chunks_gateway_bypass.js#3: Loaded Java class 'net.minecraftforge.event.entity.player.PlayerInteractEvent$RightClickBlock'
+[16:19:51] [INFO] events/ftb_chunks_gateway_bypass.js#6: Loaded Java class 'net.minecraftforge.registries.ForgeRegistries'
+[16:19:51] [INFO] events/ftb_chunks_gateway_bypass.js#8: Loaded Java class 'net.minecraftforge.eventbus.api.Event$Result'
+[16:19:51] [INFO] Loaded script startup_scripts:events/ftb_chunks_gateway_bypass.js in 0.028 s
+[16:19:51] [INFO] Loaded script startup_scripts:recipes/staging_config.js in 0.054 s
+[16:19:51] [INFO] Loaded script startup_scripts:registry/items.js in 0.041 s
+[16:19:51] [INFO] Loaded script startup_scripts:registry/attributes.js in 0.002 s
+[16:19:51] [INFO] Loaded script startup_scripts:registry/blocks.js in 0.004 s
+[16:19:51] [INFO] Loaded script startup_scripts:registry/effects.js in 0.03 s
+[16:19:51] [INFO] Loaded script startup_scripts:registry/fluids.js in 0.007 s
+[16:19:51] [INFO] Loaded script startup_scripts:registry/custom_stats.js in 0.006 s
+[16:19:51] [INFO] Loaded script startup_scripts:entityjs/modifyattributes/defaults.js in 0.003 s
+[16:19:51] [INFO] Loaded script startup_scripts:entityjs/ae_allied_mobs.js in 0.014 s
+[16:19:51] [INFO] Loaded script startup_scripts:recipes/mods/projecte.js in 0.002 s
+[16:19:51] [INFO] Loaded script startup_scripts:events/item_att_modif.js in 0.003 s
+[16:19:51] [INFO] Loaded script startup_scripts:events/client.js in 0.001 s
+[16:19:51] [INFO] events/dropped_on_death.js#4: Loaded Java class 'top.theillusivec4.curios.api.type.capability.ICurio$DropRule'
+[16:19:51] [INFO] Loaded script startup_scripts:events/dropped_on_death.js in 0.008 s
+[16:19:51] [INFO] Loaded script startup_scripts:events/entity.js in 0.007 s
+[16:19:51] [INFO] Loaded script startup_scripts:events/block_att_modif.js in 0.001 s
+[16:19:51] [INFO] Loaded script startup_scripts:arena/forge_event.js in 0.008 s
+[16:19:51] [INFO] Loaded 30/30 KubeJS startup scripts in 1.863 s with 0 errors and 0 warnings

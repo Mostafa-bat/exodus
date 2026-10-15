@@ -1,0 +1,23 @@
+
+[trial_spawner]
+	#Cooldown in ticks after trial spawner completes (default 36000 = 30 minutes)
+	#Range: > 0
+	cooldown_ticks = 36000
+	#Player detection range in blocks
+	#Range: 1 ~ 128
+	detection_range = 14
+	#Mob spawn range around the spawner
+	#Range: 1 ~ 32
+	spawn_range = 4
+	#Enable ominous trial spawner mode (triggered by Bad Omen). When false, spawners never turn ominous, Bad Omen is left alone instead of being converted to Trial Omen, and any spawner that is already ominous reverts to normal.
+	ominous_enabled = true
+
+[wind_charge]
+	#Multiplier for wind charge knockback strength
+	#Range: 0.0 ~ 10.0
+	knockback_multiplier = 1.0
+
+[migration]
+	#Enable automatic migration from the Trials mod (trials:trial_spawner -> justtrialspawners:trial_spawner). Disabled by default - enable when transitioning a world from the Trials mod to Just Trial Spawners.
+	enable_trials_migration = false
+

@@ -1,0 +1,908 @@
+[16:20:17] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[16:20:17] [INIT] Loaded plugins:
+[16:20:17] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:20:17] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[16:20:17] [INIT] - pro.mikey.kubeutils.kubejs.KubeUtilsPlugin
+[16:20:17] [INIT] - dev.ftb.mods.ftblh.kubejs.KubeJSIntegration
+[16:20:17] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[16:20:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[16:20:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[16:20:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[16:20:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[16:20:17] [INIT] - dev.ftb.mods.ftbexoduscompanion.kubejs.ExodusKubeJSPlugin
+[16:20:17] [INIT] - net.sdm.recipemachinestage.compat.kubejs.KJSPlugin
+[16:20:17] [INIT] - ru.blatfan.kubejsprojecte.kubejs.KubeJSProjectEPlugin
+[16:20:17] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[16:20:17] [INIT] - com.alessandro.astages.integration.kubejs.AStageKubeJSPlugin
+[16:20:17] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[16:20:17] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[16:20:17] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[16:20:17] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[16:20:17] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[16:20:17] [INIT] - com.alessandro.astages_curios.integration.kubejs.AStagesCuriosKubeJSPlugin
+[16:20:17] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[16:20:17] [INIT] - wootrevived.woot.compat.kubejs.WootKubeJSPlugin
+[16:20:17] [INIT] - com.leclowndu93150.chisel.compat.kubejs.ChiselKubeJSPlugin
+[16:20:17] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_actually_subtractions.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_integrateddynamics.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_bloodmagic.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_cognition.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_thermal.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_botania.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_arsnouveau.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_normalizeItem.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_malum.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_occultism.js in 0.004 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_summoningrituals.js in 0.003 s
+[16:20:19] [INFO] _init/classes/draconic_evolution.js#3: Loaded Java class 'com.brandon3055.draconicevolution.lib.MultiBlockBuilder'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/draconic_evolution.js in 0.003 s
+[16:20:19] [INFO] _init/classes/ftbpc.js#3: Loaded Java class 'dev.ftb.packcompanion.features.schematic.SchematicPasteManager'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ftbpc.js in 0.005 s
+[16:20:19] [INFO] _init/classes/create.js#3: Loaded Java class 'com.simibubi.create.AllSoundEvents'
+[16:20:19] [INFO] _init/classes/create.js#4: Loaded Java class 'com.simibubi.create.content.logistics.tableCloth.ShoppingListItem'
+[16:20:19] [INFO] _init/classes/create.js#5: Loaded Java class 'com.simibubi.create.content.logistics.box.PackageItem'
+[16:20:19] [INFO] _init/classes/create.js#6: Loaded Java class 'com.simibubi.create.content.logistics.box.PackageEntity'
+[16:20:19] [INFO] _init/classes/create.js#7: Loaded Java class 'com.simibubi.create.AllRecipeTypes'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/create.js in 0.009 s
+[16:20:19] [INFO] _init/classes/fdlib.js#3: Loaded Java class 'com.finderfeed.fdlib.systems.cutscenes.CutsceneData'
+[16:20:19] [INFO] _init/classes/fdlib.js#4: Loaded Java class 'com.finderfeed.fdlib.systems.cutscenes.CameraPos'
+[16:20:19] [INFO] _init/classes/fdlib.js#5: Loaded Java class 'com.finderfeed.fdlib.systems.cutscenes.CurveType'
+[16:20:19] [INFO] _init/classes/fdlib.js#6: Loaded Java class 'com.finderfeed.fdlib.systems.cutscenes.EasingType'
+[16:20:19] [INFO] _init/classes/fdlib.js#7: Loaded Java class 'com.finderfeed.fdlib.util.FDColor'
+[16:20:19] [INFO] _init/classes/fdlib.js#8: Loaded Java class 'com.finderfeed.fdlib.systems.cutscenes.CutsceneData$StopMode'
+[16:20:19] [INFO] _init/classes/fdlib.js#9: Loaded Java class 'com.finderfeed.fdlib.FDLibCalls'
+[16:20:19] [INFO] _init/classes/fdlib.js#23: Loaded Java class 'com.finderfeed.fdlib.init.FDScreenEffects'
+[16:20:19] [INFO] _init/classes/fdlib.js#24: Loaded Java class 'com.finderfeed.fdlib.systems.screen.screen_effect.instances.datas.ScreenColorData'
+[16:20:19] [INFO] _init/classes/fdlib.js#25: Loaded Java class 'com.finderfeed.fdlib.systems.screen.screen_effect.instances.chromatic_abberation.ChromaticAbberationData'
+[16:20:19] [INFO] _init/classes/fdlib.js#26: Loaded Java class 'com.finderfeed.fdlib.systems.screen.screen_effect.instances.ScreenColorEffect'
+[16:20:19] [INFO] _init/classes/fdlib.js#27: Loaded Java class 'com.finderfeed.fdlib.systems.particle.particle_emitter.ParticleEmitterData'
+[16:20:19] [INFO] _init/classes/fdlib.js#28: Loaded Java class 'com.finderfeed.fdlib.systems.particle.particle_emitter.ParticleEmitterData$Builder'
+[16:20:19] [INFO] _init/classes/fdlib.js#29: Loaded Java class 'com.finderfeed.fdlib.systems.particle.particle_emitter.FDEmitterProcessorTypes'
+[16:20:19] [INFO] _init/classes/fdlib.js#30: Loaded Java class 'com.finderfeed.fdlib.systems.particle.particle_emitter.processors.CircleSpawnProcessor'
+[16:20:19] [INFO] _init/classes/fdlib.js#31: Loaded Java class 'com.finderfeed.fdlib.systems.particle.particle_emitter.EmptyEmitterProcessor'
+[16:20:19] [INFO] _init/classes/fdlib.js#32: Loaded Java class 'com.finderfeed.fdlib.systems.particle.particle_emitter.EmitterProcessor'
+[16:20:19] [INFO] _init/classes/fdlib.js#33: Loaded Java class 'com.finderfeed.fdlib.util.rendering.FDRenderUtil'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/fdlib.js in 0.03 s
+[16:20:19] [INFO] _init/classes/malum.js#3: Loaded Java class 'com.sammy.malum.core.handlers.SpiritHarvestHandler'
+[16:20:19] [INFO] _init/classes/malum.js#5: Loaded Java class 'com.sammy.malum.common.item.curiosities.SpiritPouchItem'
+[16:20:19] [INFO] _init/classes/malum.js#6: Loaded Java class 'com.sammy.malum.common.entity.spirit.SpiritItemEntity'
+[16:20:19] [INFO] _init/classes/malum.js#7: Loaded Java class 'com.sammy.malum.core.listeners.SpiritDataReloadListener'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/malum.js in 0.011 s
+[16:20:19] [INFO] _init/classes/ftbchunks.js#3: Loaded Java class 'dev.ftb.mods.ftbchunks.api.FTBChunksAPI'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ftbchunks.js in 0.001 s
+[16:20:19] [INFO] _init/classes/kubejs.js#3: Loaded Java class 'dev.latvian.mods.kubejs.util.UtilsJS'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/kubejs.js in 0.0 s
+[16:20:19] [INFO] _init/classes/apotheosis.js#3: Loaded Java class 'dev.shadowsoffire.apotheosis.adventure.affix.salvaging.SalvagingMenu'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/apotheosis.js in 0.004 s
+[16:20:19] [INFO] _init/classes/java.js#3: Loaded Java class 'java.util.Properties'
+[16:20:19] [INFO] _init/classes/java.js#4: Loaded Java class 'java.util.function.Consumer'
+[16:20:19] [INFO] _init/classes/java.js#5: Loaded Java class 'java.util.LinkedList'
+[16:20:19] [INFO] _init/classes/java.js#6: Loaded Java class 'java.util.function.Predicate'
+[16:20:19] [INFO] _init/classes/java.js#7: Loaded Java class 'java.util.HashSet'
+[16:20:19] [INFO] _init/classes/java.js#8: Loaded Java class 'java.lang.Object'
+[16:20:19] [INFO] _init/classes/java.js#9: Loaded Java class 'java.util.HashMap'
+[16:20:19] [INFO] _init/classes/java.js#10: Loaded Java class 'java.util.Collection'
+[16:20:19] [INFO] _init/classes/java.js#15: Loaded Java class 'java.util.UUID'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/java.js in 0.002 s
+[16:20:19] [INFO] _init/classes/ftbessentials.js#3: Loaded Java class 'dev.ftb.mods.ftbessentials.util.FTBEPlayerData'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ftbessentials.js in 0.005 s
+[16:20:19] [INFO] _init/classes/ccl.js#3: Loaded Java class 'codechicken.lib.vec.Rotation'
+[16:20:19] [INFO] _init/classes/ccl.js#4: Loaded Java class 'codechicken.lib.vec.Vector3'
+[16:20:19] [INFO] _init/classes/ccl.js#5: Loaded Java class 'codechicken.lib.vec.Quat'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ccl.js in 0.005 s
+[16:20:19] [INFO] _init/classes/ftblibrary.js#3: Loaded Java class 'dev.ftb.mods.ftblibrary.icon.Color4I'
+[16:20:19] [INFO] _init/classes/ftblibrary.js#4: Loaded Java class 'dev.ftb.mods.ftblibrary.math.ChunkDimPos'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ftblibrary.js in 0.002 s
+[16:20:19] [INFO] _init/classes/ftbteambases.js#3: Loaded Java class 'dev.ftb.mods.ftbteambases.config.ServerConfig'
+[16:20:19] [INFO] _init/classes/ftbteambases.js#4: Loaded Java class 'dev.ftb.mods.ftbteambases.util.DimensionUtils'
+[16:20:19] [INFO] _init/classes/ftbteambases.js#5: Loaded Java class 'dev.ftb.mods.ftbteambases.data.bases.BaseInstanceManager'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ftbteambases.js in 0.005 s
+[16:20:19] [INFO] _init/classes/ftbteams.js#3: Loaded Java class 'dev.ftb.mods.ftbteams.api.FTBTeamsAPI'
+[16:20:19] [INFO] _init/classes/ftbteams.js#5: Loaded Java class 'dev.ftb.mods.ftbteams.api.property.TeamProperties'
+[16:20:19] [INFO] _init/classes/ftbteams.js#6: Loaded Java class 'dev.ftb.mods.ftbteams.data.FTBTUtils'
+[16:20:19] [INFO] _init/classes/ftbteams.js#7: Loaded Java class 'dev.ftb.mods.ftbteams.data.TeamArgument'
+[16:20:19] [INFO] _init/classes/ftbteams.js#8: Loaded Java class 'dev.ftb.mods.ftbteams.data.ServerTeam'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ftbteams.js in 0.013 s
+[16:20:19] [INFO] _init/classes/brandons_core.js#3: Loaded Java class 'com.brandon3055.brandonscore.handlers.ProcessHandler'
+[16:20:19] [INFO] _init/classes/brandons_core.js#4: Loaded Java class 'com.brandon3055.brandonscore.multiblock.MultiBlockManager'
+[16:20:19] [INFO] _init/classes/brandons_core.js#5: Loaded Java class 'com.brandon3055.brandonscore.multiblock.MultiBlockDefinition'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/brandons_core.js in 0.003 s
+[16:20:19] [INFO] _init/classes/forge.js#3: Loaded Java class 'net.minecraftforge.common.MinecraftForge'
+[16:20:19] [INFO] _init/classes/forge.js#4: Loaded Java class 'net.minecraftforge.eventbus.api.EventPriority'
+[16:20:19] [INFO] _init/classes/forge.js#5: Loaded Java class 'net.minecraftforge.items.ItemStackHandler'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/forge.js in 0.005 s
+[16:20:19] [INFO] _init/classes/ironsspellbooks.js#3: Loaded Java class 'io.redspace.ironsspellbooks.api.registry.SpellRegistry'
+[16:20:19] [INFO] _init/classes/ironsspellbooks.js#4: Loaded Java class 'io.redspace.ironsspellbooks.api.spells.CastSource'
+[16:20:19] [INFO] _init/classes/ironsspellbooks.js#5: Loaded Java class 'io.redspace.ironsspellbooks.api.magic.MagicData'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/ironsspellbooks.js in 0.005 s
+[16:20:19] [INFO] _init/classes/minecraft.js#3: Loaded Java class 'net.minecraft.world.level.GameRules'
+[16:20:19] [INFO] _init/classes/minecraft.js#4: Loaded Java class 'net.minecraft.world.entity.player.Player'
+[16:20:19] [INFO] _init/classes/minecraft.js#5: Loaded Java class 'net.minecraft.util.Mth'
+[16:20:19] [INFO] _init/classes/minecraft.js#6: Loaded Java class 'net.minecraft.core.BlockPos'
+[16:20:19] [INFO] _init/classes/minecraft.js#7: Loaded Java class 'net.minecraft.resources.ResourceLocation'
+[16:20:19] [INFO] _init/classes/minecraft.js#8: Loaded Java class 'net.minecraft.world.level.ChunkPos'
+[16:20:19] [INFO] _init/classes/minecraft.js#9: Loaded Java class 'net.minecraft.server.level.TicketType'
+[16:20:19] [INFO] _init/classes/minecraft.js#10: Loaded Java class 'net.minecraft.world.entity.LightningBolt'
+[16:20:19] [INFO] _init/classes/minecraft.js#11: Loaded Java class 'net.minecraft.world.entity.EntityType'
+[16:20:19] [INFO] _init/classes/minecraft.js#12: Loaded Java class 'net.minecraft.world.entity.ai.village.poi.PoiTypes'
+[16:20:19] [INFO] _init/classes/minecraft.js#13: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[16:20:19] [INFO] _init/classes/minecraft.js#14: Loaded Java class 'net.minecraft.world.entity.ai.attributes.AttributeModifier'
+[16:20:19] [INFO] _init/classes/minecraft.js#15: Loaded Java class 'net.minecraft.world.entity.Mob'
+[16:20:19] [INFO] _init/classes/minecraft.js#16: Loaded Java class 'net.minecraft.world.level.levelgen.structure.BoundingBox'
+[16:20:19] [INFO] _init/classes/minecraft.js#17: Loaded Java class 'net.minecraft.core.QuartPos'
+[16:20:19] [INFO] _init/classes/minecraft.js#18: Loaded Java class 'net.minecraft.core.SectionPos'
+[16:20:19] [INFO] _init/classes/minecraft.js#19: Loaded Java class 'net.minecraft.world.effect.MobEffectInstance'
+[16:20:19] [INFO] _init/classes/minecraft.js#20: Loaded Java class 'net.minecraft.world.entity.monster.Monster'
+[16:20:19] [INFO] _init/classes/minecraft.js#21: Loaded Java class 'net.minecraft.world.Difficulty'
+[16:20:19] [INFO] _init/classes/minecraft.js#22: Loaded Java class 'net.minecraft.core.particles.ParticleTypes'
+[16:20:19] [INFO] _init/classes/minecraft.js#23: Loaded Java class 'net.minecraft.world.item.crafting.StonecutterRecipe'
+[16:20:19] [INFO] _init/classes/minecraft.js#24: Loaded Java class 'net.minecraft.commands.arguments.blocks.BlockInput'
+[16:20:19] [INFO] _init/classes/minecraft.js#25: Loaded Java class 'net.minecraft.world.Clearable'
+[16:20:19] [INFO] _init/classes/minecraft.js#26: Loaded Java class 'net.minecraft.server.level.ColumnPos'
+[16:20:19] [INFO] _init/classes/minecraft.js#27: Loaded Java class 'net.minecraft.server.level.ServerPlayer'
+[16:20:19] [INFO] _init/classes/minecraft.js#28: Loaded Java class 'net.minecraft.world.phys.AABB'
+[16:20:19] [INFO] _init/classes/minecraft.js#29: Loaded Java class 'net.minecraft.nbt.StringTag'
+[16:20:19] [INFO] Loaded script server_scripts:_init/classes/minecraft.js in 0.044 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_enderio.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_create.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:_init/server_globals/server_constants.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:_init/function_utils/_easings.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:_init/function_utils/_ftbteambases_api.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:_init/function_utils/_ftbteams_api.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:_init/function_utils/_kjs_utils.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:_init/function_utils/_position_utils.js in 0.0 s
+[16:20:19] [INFO] _init/function_utils/_lang_utils.js#39: [ftb_lang] Loaded 970 keys for locale 'en_us'
+[16:20:19] [INFO] Loaded script server_scripts:_init/function_utils/_lang_utils.js in 0.043 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/cutscenes/cutscene_framework.js in 0.018 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/utils.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/mods/geores.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/tags.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:event_handlers/server_events/hide.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/arena_controller/_config.js in 0.004 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/recipe_removals.js in 0.015 s
+[16:20:19] [INFO] systems/arena_controller/_utils.js#9: Loaded Java class 'dev.ftb.packcompanion.core.AsyncChunkLoader'
+[16:20:19] [INFO] systems/arena_controller/_utils.js#11: Loaded Java class 'java.util.ArrayList'
+[16:20:19] [INFO] Loaded script server_scripts:systems/arena_controller/_utils.js in 0.01 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_events_controller/events/creeper_jump_scare.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_events_controller/events/random_player_join.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/sophisticated.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_events_controller/_main.js in 0.006 s
+[16:20:19] [INFO] Loaded script server_scripts:event_handlers/player_events/asgard_swallow.js in 0.008 s
+[16:20:19] [INFO] Loaded script server_scripts:event_handlers/server_events/dimension_lockdown.js in 0.006 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/companion_engine.js in 0.005 s
+[16:20:19] [INFO] Loaded script server_scripts:event_handlers/entity_events/dragon_team_dim_guard.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/mods/create.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/mods/thermal_extra.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/mods/enderio.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/mods/embers.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/mods/blood_magic.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:unification/mods/xycraft.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_scroll/definitions.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/maze_controller/definitions.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_scroll/scroll_engine.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/maze_controller/maze.js in 0.048 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/dialogue.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_scroll/commands.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/skill_catalyst.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/companion_actions.js in 0.004 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/bifrost/routing.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_scroll/scroll_protection.js in 0.0 s
+[16:20:19] [INFO] systems/multiblock_tools/ritual_reader.js#1: Loaded Java class 'net.minecraft.nbt.ListTag'
+[16:20:19] [INFO] systems/multiblock_tools/ritual_reader.js#2: Loaded Java class 'net.minecraft.world.item.ItemStack'
+[16:20:19] [INFO] systems/multiblock_tools/ritual_reader.js#3: Loaded Java class 'net.minecraft.world.entity.item.ItemEntity'
+[16:20:19] [INFO] Loaded script server_scripts:systems/multiblock_tools/ritual_reader.js in 0.021 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/multiblock_tools/multiblock_builder.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/bifrost_shop/shopkeeper.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/arena_controller/commands.js in 0.008 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/arena_controller/player_tracking.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/arena_controller/regen_tick.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/arena_controller/geburah_compass.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/maze_controller/raido.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/maze_controller/maze_compass.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/maze_controller/vault_fix.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/villlagers/trading_hall.js in 0.031 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/companion_conditions.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/little_helper_handler.js in 0.009 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/little_helper_commands.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/definitions.js in 0.005 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/little_helper/respawn_rescue.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/ftb_events_controller/_commands.js in 0.004 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/cutscenes/bifrost_bridge_cutscene.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/cutscenes/maledictus.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/cutscenes/cutscene_commands.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:systems/cutscenes/bifrost_cutscene.js in 0.009 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/projecte.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/bloodmagic.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/quark.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/chisel_modern.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/ice_and_fire.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/powah.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/supplementaries.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/constructionsticks.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/ftb/misc.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/ftb/molten_cthonic_gold.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/ftb/wrought_iron.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/create.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/bhc.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/mowziesmobs.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/occultism.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/megacells.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/occultism_pentacles.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/reliquary.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/summoning_rituals/passive_summons.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/summoning_rituals/elite_summons.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/summoning_rituals/hostile_summons.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/summoning_rituals/boss_summons.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/summoning_rituals/sacrificial_recipes.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/expatternprovider.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/enchanted.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/alexscaves.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/scraps.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/mystical_agriculture.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/malum.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/wizards_reborn.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/simplemagnets.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/functionalstorage.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/thermal.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/tconstruct_staging.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/animus.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/ars_nouveau.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/tconstruct.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/glassential.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/apotheosis.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/botania.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/enderio.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/_mekanism.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/embers.js in 0.002 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/occultengineering.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/ftb_swords.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/farmers_delight.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/gag.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/misc_recipes.js in 0.003 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/modular_routers.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/geore.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/summoningrituals.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/cognition.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/integrateddynamics.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/irons_spellbooks.js in 0.0 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/xycraft.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/actually_subtractions.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/minecraft.js in 0.001 s
+[16:20:19] [INFO] Loaded script server_scripts:recipes/mods/appliedenergistics.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:loot/loot_modifiers.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:tags/biome.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:tags/fluid.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:tags/enchantment.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:tags/entity.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:tags/block.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:tags/item.js in 0.003 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/trigger_events/bifrost_bridge_trigger.js in 0.002 s
+[16:20:20] [INFO] event_handlers/trigger_events/trigger_offset_trigger.js#14: Loaded Java class 'dev.ftb.mods.ftbragnarok.entity.NidhoggBoss'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/trigger_events/trigger_offset_trigger.js in 0.014 s
+[16:20:20] [INFO] event_handlers/items/sealed_scroll.js#4: Loaded Java class 'io.redspace.ironsspellbooks.api.spells.SpellRarity'
+[16:20:20] [INFO] event_handlers/items/sealed_scroll.js#5: Loaded Java class 'io.redspace.ironsspellbooks.api.spells.ISpellContainer'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/items/sealed_scroll.js in 0.005 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/items/cataclysm_eyes.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/items/foxhound.js in 0.0 s
+[16:20:20] [INFO] event_handlers/items/codex_glyph.js#4: Loaded Java class 'com.hollingsworth.arsnouveau.setup.registry.CapabilityRegistry'
+[16:20:20] [INFO] event_handlers/items/codex_glyph.js#5: Loaded Java class 'com.hollingsworth.arsnouveau.common.items.Glyph'
+[16:20:20] [INFO] event_handlers/items/codex_glyph.js#6: Loaded Java class 'com.hollingsworth.arsnouveau.setup.config.Config'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/items/codex_glyph.js in 0.005 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/items/compass_distance.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/items/irons_spellbooks_recall.js in 0.001 s
+[16:20:20] [INFO] event_handlers/player_events/player_event_handler.js#23: Loaded Java class 'top.theillusivec4.curios.api.CuriosApi'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/player_events/player_event_handler.js in 0.006 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/player_events/chorus_hiccups.js in 0.001 s
+[16:20:20] [INFO] event_handlers/player_events/stage_mirror.js#1: Loaded Java class 'com.alessandro.astages.capability.PlayerStageProvider'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/player_events/stage_mirror.js in 0.004 s
+[16:20:20] [INFO] event_handlers/player_events/player_set_respawn.js#3: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[16:20:20] [INFO] event_handlers/player_events/player_set_respawn.js#4: Loaded Java class 'net.minecraft.core.registries.Registries'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/player_events/player_set_respawn.js in 0.003 s
+[16:20:20] [INFO] event_handlers/player_events/astages_stage_sync.js#1: Loaded Java class 'dev.ftb.mods.ftbquests.quest.TeamData'
+[16:20:20] [INFO] event_handlers/player_events/astages_stage_sync.js#2: Loaded Java class 'dev.ftb.mods.ftbquests.quest.QuestObjectBase'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/player_events/astages_stage_sync.js in 0.014 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/player_events/alfheim_kvasir_unlock.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/server_events/gamerule.js in 0.0 s
+[16:20:20] [INFO] event_handlers/server_events/exploit_prevention.js#1: Loaded Java class 'net.minecraft.world.level.block.Blocks'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/server_events/exploit_prevention.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/server_events/summoning_rituals_handler.js in 0.004 s
+[16:20:20] [INFO] event_handlers/server_events/bed.js#1: Loaded Java class 'net.minecraft.nbt.CompoundTag'
+[16:20:20] [INFO] event_handlers/server_events/bed.js#2: Loaded Java class 'net.minecraft.nbt.NbtUtils'
+[16:20:20] [INFO] event_handlers/server_events/bed.js#3: Loaded Java class 'net.minecraft.stats.Stats'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/server_events/bed.js in 0.002 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/server_events/cauldron_fix.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/level_events/void_convert.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/level_events/AutoClaim.js in 0.002 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/level_events/de_crafting_injector_dupe_fix.js in 0.0 s
+[16:20:20] [INFO] event_handlers/entity_events/hel_spawn_conditions.js#1: Loaded Java class 'net.minecraft.world.level.LightLayer'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/hel_spawn_conditions.js in 0.003 s
+[16:20:20] [INFO] event_handlers/entity_events/yeti_enhancements.js#5: Loaded Java class 'net.minecraft.tags.DamageTypeTags'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/yeti_enhancements.js in 0.002 s
+[16:20:20] [INFO] event_handlers/entity_events/hel_loot_guard.js#1: Loaded Java class 'net.minecraft.world.entity.EquipmentSlot'
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/hel_loot_guard.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/wither_bone_unification.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/forsaken_summon_gate.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/lightning_spell_handler.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/entity_event_handler.js in 0.003 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/dragon_skull_gate.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:event_handlers/entity_events/jormungandr_glow.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/ftb_util_commands.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/retrogen_geores.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/stage_commands.js in 0.002 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/bifrost_commands.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/delay_command.js in 0.003 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/open_guideme_command.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/xaero_waypoint.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:commands/asgard_commands.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:unification/removals.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:unification/mods/embers_extras.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:unification/mods/minecraft.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:unification/jei.js in 0.0 s
+[16:20:20] [INFO] Loaded script server_scripts:unification/molten_fluids.js in 0.002 s
+[16:20:20] [INFO] Loaded script server_scripts:unification/processing/alloying.js in 0.004 s
+[16:20:20] [INFO] Loaded script server_scripts:unification/ore_gens.js in 0.001 s
+[16:20:20] [INFO] Loaded script server_scripts:recipes/_recipe_staging.js in 0.006 s
+[16:20:20] [INFO] Loaded 203/203 KubeJS server scripts in 0.711 s with 0 errors and 0 warnings
+[16:20:20] [INFO] recipes/mods/occultism_pentacles.js#272: +++++++Done Creating Pentacle ++++++++++++
+[16:20:20] [INFO] Scripts loaded
+[16:20:20] [INFO] Initializing recipe event...
+[16:20:24] [INFO] [minecraft:fluid] Found 232 tags, added 55 objects, removed 0 objects
+[16:20:24] [INFO] [minecraft:block_entity_type] Found 10 tags, added 1 objects, removed 0 objects
+[16:20:24] [INFO] [minecraft:worldgen/biome] Found 360 tags, added 93 objects, removed 3 objects
+[16:20:24] [INFO] [minecraft:entity_type] Found 224 tags, added 97 objects, removed 0 objects
+[16:20:24] [INFO] [minecraft:enchantment] Found 22 tags, added 1 objects, removed 0 objects
+[16:20:25] [INFO] [minecraft:block] Found 1965 tags, added 50 objects, removed 19 objects
+[16:20:26] [INFO] [minecraft:item] Found 3689 tags, added 2189 objects, removed 4 objects
+[16:20:36] [INFO] Processing recipes...
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/blue_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/gray_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/black_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'cataclysm:stonecutting/azure_seastone_brick_stair_from_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/magma_block[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/light_gray_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/magenta_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/gold_enchanted_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/plate_mold[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/mob_shard[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/blue_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/stygian_plate[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/fire_charge[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_12[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_11[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_10[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/magenta_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/orange_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/lime_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/light_gray_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/yellow_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/light_blue_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/cyan_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/crying_obsidian[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/diamond_enchanted_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/soul_soil[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/red_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/copper_enchanted_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/light_blue_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'mysticalagriculture:essence/chisel/basalt[cucumber:shaped_no_mirror]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/cyan_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/purple_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/brown_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/orange_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/white_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/brown_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_1[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_0[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_3[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_2[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_5[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_4[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_7[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_6[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_9[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/mob_tears_8[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/pink_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/red_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/purple_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/fake_spawner[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/lime_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/netherrack[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/green_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/black_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/white_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_0[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_9[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_8[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_7[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_6[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_5[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_4[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_3[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_2[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:fluid_infuser/vitality_fuel_1[woot_revived:fluid_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/pink_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/copper_shard[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/green_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/netherite_enchanted_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'darkutils:crafting/tome_runelic[crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/dye_casing_mold[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/prism[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/yellow_dye_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:item_infuser/iron_enchanted_plate[woot_revived:item_infuser]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/gray_dye_casing[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [WARN] Failed to parse recipe 'woot_revived:stygian_anvil/shard_mold[woot_revived:stygian_anvil]'! Falling back to vanilla: ItemStack 'output' can't be empty!
+[16:20:36] [INFO] Found 28488 recipes in 671.2 ms
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:blackstone, weight: 1000.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:end_stone, weight: 1000.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:dead_fire_coral_block, weight: 1000.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:dead_horn_coral_block, weight: 1000.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:bone_block, weight: 1000.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:dead_brain_coral_block, weight: 1000.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:basalt, weight: 1000.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#401: occultism:miners/basic_resources
+[16:21:07] [INFO] recipes/mods/occultism.js#402: miners/basic_resources
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: geore:iron_shard, weight: 750.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: geore:copper_shard, weight: 584.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: geore:redstone_shard, weight: 515.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: malum:soulstone_ore, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: geore:coal_shard, weight: 584.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:amethyst_block, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: malum:cthonic_gold_ore, weight: 311.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#401: occultism:miners/ores
+[16:21:07] [INFO] recipes/mods/occultism.js#402: miners/ores
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:silver_deepslate_ore, weight: 381.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:lead_stone_ore, weight: 500.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:tin_deepslate_ore, weight: 602.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:nickel_stone_ore, weight: 500.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:apatite_stone_ore, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:cinnabar_stone_ore, weight: 190.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:niter_deepslate_ore, weight: 244.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:sulfur_stone_ore, weight: 222.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:aluminum_deepslate_ore, weight: 422.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:gold_ore, weight: 311.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: occultism:iesnium_ore, weight: 100.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:emerald_ore, weight: 156.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:diamond_ore, weight: 218.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: geore:lapis_shard, weight: 343.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:soul_sand, weight: 100.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#401: occultism:miners/deeps
+[16:21:07] [INFO] recipes/mods/occultism.js#402: miners/deeps
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:ancient_debris, weight: 100.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:dimensional_shard_stone_ore, weight: 127.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: minecraft:nether_quartz_ore, weight: 222.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:zinc_stone_ore, weight: 186.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: xycraft_world:kivi, weight: 500.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: geore:black_quartz_shard, weight: 343.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: xycraft_world:xychorium_ore_stone_blue, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: xycraft_world:xychorium_ore_stone_green, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: xycraft_world:xychorium_ore_stone_red, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: xycraft_world:xychorium_ore_stone_dark, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: xycraft_world:xychorium_ore_stone_light, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: malum:cthonic_gold_ore, weight: 311.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: ftbmaterials:sapphire_stone_ore, weight: 200.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#397: {result: mysticalagriculture:prosperity_ore, weight: 155.0} [dev.latvian.mods.rhino.NativeObject]
+[16:21:07] [INFO] recipes/mods/occultism.js#401: occultism:miners/master
+[16:21:07] [INFO] recipes/mods/occultism.js#402: miners/master
+[16:21:07] [INFO] recipes/mods/tconstruct_staging.js#8: Recipe tconstruct:smeltery/entity_melting/blaze for tconstruct:entity_melting add to muspelheim_stage.stage
+[16:21:07] [INFO] recipes/mods/tconstruct_staging.js#8: Recipe tconstruct:smeltery/entity_melting/heads/blaze for tconstruct:melting add to muspelheim_stage.stage
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/lunar | base=minecraft:packed_ice addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/samurai | base=thermal_extra:dragonsteel_nugget addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/slipstream | base=reliquary:angelic_feather addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/solar | base=minecraft:magma_block addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/splendor | base=minecraft:rabbit_foot addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/tyrannical | base=embers:dawnstone_ingot addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/warlord | base=minecraft:echo_shard addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/lightning | base=irons_spellbooks:lightning_rune addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/guardian | base=ftbmaterials:netherite_nugget addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/combatant | base=iceandfire:sea_serpent_arrow addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/breach | base=mysticalagriculture:prudentium_ingot addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/brawlers | base=minecraft:golden_apple addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/core/ballast | base=tconstruct:queens_slime_nugget addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/ender | base=minecraft:ender_pearl addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/fire | base=minecraft:blaze_rod addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/holy | base=irons_spellbooks:divine_pearl addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/ice | base=irons_spellbooks:frozen_bone addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/evocation | base=minecraft:emerald addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/intelligent | base=irons_spellbooks:arcane_essence addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/lightning | base=irons_spellbooks:lightning_bottle addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/nature | base=naturesaura:gold_fiber addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/spell_resist | base=irons_spellbooks:mithril_scrap addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/summoning | base=iceandfire:dread_shard addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/cooldown | base=minecraft:phantom_membrane addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/cast_time | base=irons_spellbooks:magic_cloth addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/irons_spellbooks/blood | base=irons_spellbooks:blood_vial addition=minecraft:quartz
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/overworld/earth | base=minecraft:enchanting_table addition=minecraft:diamond
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/overworld/royalty | base=ftb:empowered_netherite addition=minecraft:diamond
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/the_end/endersurge | base=apotheosis:library addition=draconicevolution:draconium_ingot
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/the_end/mageslayer | base=minecraft:ender_pearl addition=draconicevolution:draconium_ingot
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/the_nether/inferno | base=tconstruct:ichor_slime_crystal addition=minecraft:diamond
+[16:21:08] [INFO] recipes/mods/apotheosis.js#150: [apotheosis] Registering gem smithing: ftb:apotheosis/gem_smithing/apotheosis/the_nether/blood_lord | base=minecraft:enchanted_golden_apple addition=minecraft:diamond
+[16:21:08] [INFO] recipes/_recipe_staging.js#66: [STAGING] Starting recipe staging...
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:enderio/alloy_smelting/andesite_alloy_from_zinc for enderio:alloy_smelting add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:enderio/alloy_smelting/andesite_alloy for enderio:alloy_smelting add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:thermal/smelter/simple/andesite_alloy_from_zinc for thermal:smelter add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:thermal/smelter/simple/andesite_alloy for thermal:smelter add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe create:crafting/materials/andesite_alloy for crafting add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe create:crafting/materials/andesite_alloy_from_zinc for crafting add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe enderio:fire_crafting/infinity for enderio:fire_crafting add to jotunheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:tconstruct/alloying/dark_steel for tconstruct:alloying add to jotunheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:spirit_infusion/action_pad for malum:spirit_infusion add to boss_hel_killed.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:dragonforge/ice/draconic_ember for iceandfire:dragonforge add to asgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:dragonforge/lightning/draconic_ember for iceandfire:dragonforge add to asgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:dragonforge/fire/draconic_ember for iceandfire:dragonforge add to asgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:mysticalagriculture/cobblestone for crafting add to hel_maze_completed.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:mysticalagriculture/pointed_dripstone for crafting add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:mysticalagriculture/dripstone_block for crafting add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:mysticalagriculture/tuff for crafting add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe enderio:sag_milling/coal_ore for enderio:sag_milling add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe ftb:lychee/item_inside/minecraft/blaze_powder for lychee:item_inside add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#134: Recipe tconstruct:smeltery/alloys/molten_enderium for tconstruct:alloying add to muspelheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/chicken for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe actuallyadditions:crushing/diamond_horse_armor for actuallyadditions:crushing add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/ghast for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/tin for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe draconicevolution:tools/wyvern_chestpiece for draconicevolution:fusion_crafting add to draconic_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/diamond/block for tconstruct:casting_basin add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/mithril for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/copper for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/marble for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/fluix for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:mechanical_squeezer/ore/gem_emerald for integrateddynamics:mechanical_squeezer add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/netherite/ingot_gold_cast for tconstruct:casting_table add to muspelheim_stage.stage
+[16:21:08] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/netherite/block for tconstruct:casting_basin add to muspelheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/ruby for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe botania:mana_infusion/calcite_to_deepslate for botania:mana_infusion add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/nether_gold_ore for create:crushing add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/pig_iron for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/netherite for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone_catalyst_0_waterblock for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/nether for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/basalz for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/blazing_crystal for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/turtle for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/redstone for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/soulium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone_waterblock for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/vibrant_alloy for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/lead for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/end for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/iridium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/emerald/block for tconstruct:casting_basin add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/slime for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/signalum for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe ars_nouveau:dye_archmage_spell_book for ars_nouveau:dye add to niflheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/gold/ingot_sand_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff_waterlogged for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/nether_quartz for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe draconicevolution:tools/chaotic_chestpiece for draconicevolution:fusion_crafting add to draconic_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/platinum for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/pig for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/niotic_crystal for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/copper_alloy for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/uraninite for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:squeezer/ore/gem_diamond for integrateddynamics:squeezer add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/cow for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/deepslate_diamond_ore for create:crushing add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/sulfur for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/gilded_blackstone for create:crushing add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/bronze for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:squeezer/ore/gem_emerald for integrateddynamics:squeezer add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/redstone_alloy for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/creeper for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/air for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/experience for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/coal for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/limestone for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/emerald_ore for create:crushing add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:squeezer/convenience/minecraft_blaze_powder for integrateddynamics:squeezer add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/silicon for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/bronze for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/elementium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/wither_skeleton for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/gold for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/skeleton for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/mystical_flower for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe malum:create/washing/gold_node for create:splashing add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/coral for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/nether_quartz for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/earth for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/rabbit for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/uraninite_from_ore_poor for powah:energizing add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/slime for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/fluix for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone_waterlogged for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/copper_alloy for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/enderium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/gold for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/pulsating_alloy for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/certus_quartz for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/sapphire for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/stone for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/blaze_rod for create:crushing add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/spider for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/certus_quartz for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/tungsten for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/ender_core for powah:energizing add to jotunheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/end_steel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/ghast for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:squeezer/ore/netherrite_scrap for integrateddynamics:squeezer add to muspelheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/iron for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/silver for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/enderman for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/deepslate for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/queens_slime for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/conductive_alloy for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/ice for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/charged_snowball for powah:energizing add to jotunheim_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/nickel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/elementium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/rabbit for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/graphite for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/grains_of_infinity for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/cow for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/terrasteel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/stone for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/zombie for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe wizards_reborn:alchemy_machine/cobblestone for wizards_reborn:alchemy_machine add to hel_maze_completed.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/sheep for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe embers:stamping/nuggets/gold for embers:stamping add to bifrost_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/aluminum for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:08] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/end for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/redstone for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/signalum for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/diamond for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/turtle for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/basalt for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/basalz for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/diamond_ore for create:crushing add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/gold/nugget_sand_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/saltpeter for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/sulfur for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/energetic_alloy for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/uraninite_from_ore for powah:energizing add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/tin for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/copper for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff_waterblock for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe experienceobelisk:metamorpher/new/grass_block_metamorphosis for com.cyanogen.experienceobelisk.recipe.MolecularMetamorpherRecipe$Type@6e31b53d add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe actuallyadditions:crushing/black_quartz_ore for actuallyadditions:crushing add to jotunheim_stage.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:squeezer/ore/gold_nugget_blackstone for integrateddynamics:squeezer add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/uraninite_from_raw for powah:energizing add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/blazing_crystal for powah:energizing add to jotunheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/dirt for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/zinc for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/brass for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/electrum for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/energized_steel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe create:milling/andesite for create:milling add to hel_maze_completed.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/draconium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/enderium/ingot_sand_cast for tconstruct:casting_table add to muspelheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:mechanical_squeezer/ore/cobbblestone for integrateddynamics:mechanical_squeezer add to hel_maze_completed.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/stone_0_wb for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/manyullyn for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:mechanical_squeezer/ore/gold_nugget_blackstone for integrateddynamics:mechanical_squeezer add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/glowstone for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/pig for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/nature for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/zombie for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/energized_steel for powah:energizing add to jotunheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/energized_steel for powah:energizing add to jotunheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/soularium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/sky_stone for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/nether for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/apatite for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/water for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone_catalyst_0 for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/stone_waterlogged for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/chicken for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/wood for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:compat/create/andesite_alloy_zinc for tconstruct:casting_basin add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe embers:stamping/ingots/gold for embers:stamping add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/invar for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/ice for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/queens_slime for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/niotic_crystal for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/steel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/electrum for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/graphite for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe ars_nouveau:dye_novice_spell_book for ars_nouveau:dye add to hel_maze_completed.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/uraninite for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/netherite/ingot_sand_cast for tconstruct:casting_table add to muspelheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/blazing_crystal for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/uraninite_from_ore_dense for powah:energizing add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe wizards_reborn:alchemy_machine/tuff for wizards_reborn:alchemy_machine add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/blazing_crystal_2 for powah:energizing add to jotunheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/mithril for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe enchanted:witch_cauldron/mutandis_extremis for witch_cauldron add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/slimesteel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/amethyst for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/gold/ingot_gold_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe create:splashing/crushed_raw_gold for create:splashing add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/aluminum for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/cobalt for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/blaze for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/inferium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/gold/block for tconstruct:casting_basin add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/creeper for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:squeezer/ore/cobbblestone for integrateddynamics:squeezer add to hel_maze_completed.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/glowstone for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/emerald for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/manasteel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/chrome for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/wither_skeleton for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/hepatizon for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/enderium/ingot_gold_cast for tconstruct:casting_table add to muspelheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe wizards_reborn:alchemy_machine/dripstone_block for wizards_reborn:alchemy_machine add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/stone_0 for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/honey for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/tungsten for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/experience for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/amethyst_bronze for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe embers:stamping/blaze_powder for embers:stamping add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/rose_gold for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/blizz for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/squid for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe create:splashing/red_sand for create:splashing add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/deepslate_emerald_ore for create:crushing add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/iridium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/soulium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/blitz for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe ars_nouveau:archmage_spell_book_upgrade for ars_nouveau:book_upgrade add to niflheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/golden_horse_armor for create:crushing add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/menril for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/blaze for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/limestone for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe occultism:ritual/possess_ghast for ritual add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/end_steel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/terrasteel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/constantan for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/grains_of_infinity for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/deepslate for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/spirited_crystal for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/fish for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/gold/nugget_gold_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/titanium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe naturesaura:altar/ghast_tear for naturesaura:altar add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/netherite/scrap_gold_cast for tconstruct:casting_table add to muspelheim_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff_catalyst for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone_catalyst for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe create:crushing/diamond_horse_armor for create:crushing add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/cobalt for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff_catalyst_0_waterblock for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/mystical_flower for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/lumium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/zinc for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/silver for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/lapis_lazuli for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/enderium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/pulsating_alloy for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/prismarine for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/blizz for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/silicon for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/squid for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/fish for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/fire for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/netherite for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/spider for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/honey for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/nickel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/titanium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe occultism:ritual/summon_wild_hunt for ritual add to bifrost_stage.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe naturesaura:altar/blaze for naturesaura:altar add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/blitz for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/skeleton for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:09] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff_waterlogged_catalyst for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/stone_0_waterlogged for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:09] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/diamond for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/enderman for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe farmersdelight:salvaging/stone for farmersdelight:cutting add to hel_maze_completed.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/diamond/gem_gold_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/deepslate for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/amethyst for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff_catalyst_0 for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/pig_iron for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/rubber for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/lead for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/saltpeter for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff_catalyst_waterblock for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/constantan for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:mechanical_squeezer/ore/gem_diamond for integrateddynamics:mechanical_squeezer add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/prismarine for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:mechanical_squeezer/ore/netherrite_scrap for integrateddynamics:mechanical_squeezer add to muspelheim_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe create:filling/grass_block for create:filling add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe botania:petal_apothecary/pure_daisy for botania:petal_apothecary add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe wizards_reborn:alchemy_machine/cobblestone_create for wizards_reborn:alchemy_machine add to hel_maze_completed.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone_waterlogged_catalyst for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/lumium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/steel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/ruby for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe powah:energizing/nitro_crystal for powah:energizing add to muspelheim_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe occultism:crushing/blaze_powder_from_rod for crushing add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/draconium for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe actuallyadditions:crushing/blaze_rod for actuallyadditions:crushing add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/iron for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/dark_steel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/manasteel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/apatite for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/invar for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/emerald/gem_sand_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/menril for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/obsidian for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe wizards_reborn:alchemy_machine/deepslate for wizards_reborn:alchemy_machine add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/dark_steel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/peridot for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/vibrant_alloy for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/amethyst_bronze for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/emerald/gem_gold_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/tuff for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/wood for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/pointed_dripstone for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/metal/netherite/scrap_sand_cast for tconstruct:casting_table add to muspelheim_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/emerald for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe integrateddynamics:mechanical_squeezer/convenience/minecraft_blaze_powder for integrateddynamics:mechanical_squeezer add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe actuallyadditions:crushing/emerald_ore for actuallyadditions:crushing add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/spirited_crystal for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe draconicevolution:tools/draconic_chestpiece for draconicevolution:fusion_crafting add to draconic_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/sheep for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe experienceobelisk:metamorpher/netherite_ingot_metamorphosis for com.cyanogen.experienceobelisk.recipe.MolecularMetamorpherRecipe$Type@6e31b53d add to muspelheim_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/conductive_alloy for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/hepatizon for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/sapphire for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [WARN] recipes/_recipe_staging.js#141: Original recipe is null - could not get result
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:compat/create/andesite_alloy_iron for tconstruct:casting_basin add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/rose_gold for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe tconstruct:smeltery/casting/diamond/gem_sand_cast for tconstruct:casting_table add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/lapis_lazuli for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe botania:mana_infusion/deepslate_to_tuff for botania:mana_infusion add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/coral for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/energetic_alloy for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/slimesteel for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/stone_wb for xycraft_machines:extractor add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe actuallyadditions:crushing/diamond_ore for actuallyadditions:crushing add to bifrost_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/reprocessor/energized_steel for mysticalagriculture:reprocessor add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/redstone_alloy for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/soularium for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe megacells:transform/sky_steel_ingot for ae2:transform add to jotunheim_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe xycraft_machines:extractor/cobblestone_catalyst_waterblock for xycraft_machines:extractor add to hel_maze_completed.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/brass for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/obsidian for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/sky_stone for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/manyullyn for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/coal for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#163: Recipe mysticalagriculture:seed/infusion/platinum for mysticalagriculture:infusion add to midgard_stage.stage
+[16:21:10] [INFO] recipes/_recipe_staging.js#195: [STAGING] Finished. Staged 589 items and 795 recipes.
+[16:21:10] [INFO] Posted recipe events in 33.72 s
+[16:21:10] [WARN] Error parsing recipe ftb:blood_magic/arc/weakbloodorb[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"item":"bloodmagic:weakbloodorb","count":1},"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[],"output":{"item":"malum:blazing_quartz"}}: Missing inputsize, expected to find a Int
+[16:21:10] [WARN] Error parsing recipe ftb:blood_magic/arc/reversion/weak_blood_orb[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"item":"bloodmagic:weakbloodorb","count":1},"tool":{"tag":"bloodmagic:arc/reverter"},"consumeingredient":true,"mainoutputchance":0,"addedoutput":[],"output":{"item":"malum:blazing_quartz"}}: Missing inputsize, expected to find a Int
+[16:21:10] [INFO] Added 2119 recipes, removed 1975 recipes, modified 68 recipes, with 2 failed recipes in 168.2 ms
+[16:21:19] [INFO] Server resource reload complete!
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:armorer: minecraft:blast_furnace -> ftb:armorer_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:butcher: minecraft:smoker -> ftb:butcher_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:cartographer: minecraft:cartography_table -> ftb:cartographer_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:cleric: minecraft:brewing_stand -> ftb:cleric_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:farmer: minecraft:composter -> ftb:farmer_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:fisherman: minecraft:barrel -> ftb:fisherman_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:fletcher: minecraft:fletching_table -> ftb:fletcher_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:leatherworker: minecraft:cauldron -> ftb:leatherworker_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:librarian: minecraft:lectern -> ftb:librarian_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:mason: minecraft:stonecutter -> ftb:mason_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:shepherd: minecraft:loom -> ftb:shepherd_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:toolsmith: minecraft:smithing_table -> ftb:toolsmith_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] minecraft:weaponsmith: minecraft:grindstone -> ftb:weaponsmith_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] ae2:fluix_researcher: ae2:charger -> ftb:fluix_researcher_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] iceandfire:scribe: iceandfire:lectern -> ftb:scribe_station
+[16:21:23] [INFO] systems/villlagers/trading_hall.js#134: [POI Override] ars_nouveau:shady_wizard: ars_nouveau:arcane_core -> ftb:shady_wizard_station
+[16:21:23] [INFO] event_handlers/server_events/gamerule.js#8: [KubeJS] Gamerule keepInventory set to true on world load.
